@@ -1,0 +1,64 @@
+.cards{
+  width: 40%;
+  height: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: 5%;
+ // padding: 100px;
+}
+.card{
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.459);
+  border-radius: 2%;
+}
+// .input{
+//   display: block ;
+//   justify-content: center;
+// }
+.inputs{
+  margin-top:5rem;
+}
+.btn{
+  padding:8px;
+ // margin: 50px 10px 50px 20px;
+ // margin-inline-end: 50px;
+
+}
+.keep{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  font-size: x-large;
+
+}
+.k {
+  color: blue;
+  font-weight: bold;
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: larger;
+}
+.e {
+  color: red;
+  font-weight: bold;
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: larger;
+}
+.p {
+  color: yellow;
+  font-weight: bold;
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: larger;
+}
+
+.btnj{
+  margin-left: 10%;
+  // all:unset;
+  border: none;
+  cursor: pointer;
+
+}
